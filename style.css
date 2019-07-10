@@ -30,6 +30,18 @@ header{
     background-image: url(perry.jpg);
     background-size: cover;
     background-position: center;
-    border-bottom: 10px orangered solid
+    border-bottom: 10px black solid
+    
+}
+
+footer{
+    height:200px;
+    background-color:orange;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+;
     
 }
